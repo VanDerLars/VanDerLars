@@ -1,9 +1,10 @@
 ### Hi, Iam Lars 👋
 
-I am a full stack developer who loves to put it’s hands on new technologies. I work mostly with Node.JS, PHP, Svelte, Bash, Xojo and Dart and I develop web and desktop applications but most of the time I fail to make them successfull, because I already started two new projects in the meantime.
+I am a full stack developer who loves to put it’s hands on new technologies. I work mostly with Javascript (Typescript, Node), PHP, Svelte, Bash, Xojo and a bit Dart and I develop web and desktop applications. But most of the time I fail to make them successfull, because I already started two new projects in the meantime.
 
 I live and work in [Dresden|Germany](https://w3w.co/benutzen.ehrlich.besorgen) and I run the company [Stadt.Land.Netz](https://stadtlandnetz.de) together with my best friend Marcus and a team of 10 talented and beautiful persons.
 
+## Keyfacts
 - 🤵  🐩  husband & dog owner
 - 📍  Dresden, Germany
 - 🚀  Startup-Founder
@@ -45,9 +46,9 @@ I live and work in [Dresden|Germany](https://w3w.co/benutzen.ehrlich.besorgen) a
 
 | cool Tool | cool Tool | cool Tool |
 | --------- |:---------:| --------- |
-| Brave | Sonos | 1Password |
-| Spotify | Goodnotes | Yoink |
-| Slack | Paste | Itsycal |
-| Setapp | LofiGarden | Forklift |
-| Hype5 | SSH Config Editor | Noizio |
+| Brave (favorite browser) | Sonos (I have at least one speaker in every room) | 1Password (cannot live without it) |
+| Spotify (what is AppleMusic?) | Goodnotes (where my thoughts go) | Yoink (really useful) |
+| Slack (communication is king) | Paste (how can one live without it?) | Itsycal (calendars must be accessible) |
+| Setapp (plenty good stuff for the mac) | LofiGarden (an app & Lofi music, what else?) | Forklift (for good'ol FTP) |
+| Hype5 (clickybunti but well made) | SSH Config Editor (too many servers to maintain) | Noizio (more random music) |
 
