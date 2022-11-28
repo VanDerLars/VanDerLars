@@ -1,6 +1,6 @@
 ### Hi, I am Lars 👋
 
-I am a full stack developer who loves to put it’s hands on new technologies. I work mostly with Javascript (Typescript, Node), PHP, Svelte, Bash, Xojo and a bit Dart and I develop web and desktop applications. But most of the time I fail to make them successfull, because I always started two new projects  meanwhile.
+I am a full stack developer who loves to put it’s hands on new technologies. I work mostly with Javascript (Typescript, Node), PHP, Svelte, Bash, Xojo and a bit Dart and I develop web and desktop applications. But most of the time I fail to make them successfull, because I always already started two new projects  meanwhile.
 
 I live and work in [Dresden|Germany](https://w3w.co/benutzen.ehrlich.besorgen) and I run the company [Stadt.Land.Netz](https://stadtlandnetz.de) together with my best friend Marcus and a team of 10 talented and beautiful persons.
 
