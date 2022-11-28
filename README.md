@@ -5,7 +5,7 @@ I am a full stack developer who loves to put it’s hands on new technologies. I
 I live and work in [Dresden|Germany](https://w3w.co/benutzen.ehrlich.besorgen) and I run the company [Stadt.Land.Netz](https://stadtlandnetz.de) together with my best friend Marcus and a team of 10 talented and beautiful persons.
 
 ## Keyfacts
-- 🤵  🐩  husband & dog owner
+- 🤵  🐩  husband, father & dog owner
 - 📍  Dresden, Germany
 - 🚀  Startup-Founder
 - 🧑‍💻  Full stack developer
